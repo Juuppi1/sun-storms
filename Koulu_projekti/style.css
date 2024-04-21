@@ -52,11 +52,6 @@ body {
 .kolmasDiv {
     margin-left: 40px;
     margin-right: auto;
-}
-
-p {
+    font-family: Roboto, sans-serif;
     color:rgb(151,151,151);
-}
-b {
-    color: rgb(151,151,151);
 }
