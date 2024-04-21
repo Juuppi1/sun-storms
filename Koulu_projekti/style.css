@@ -48,3 +48,15 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 2.5rem;
 }
+
+.kolmasDiv {
+    margin-left: 40px;
+    margin-right: auto;
+}
+
+p {
+    color:rgb(151,151,151);
+}
+b {
+    color: rgb(151,151,151);
+}
